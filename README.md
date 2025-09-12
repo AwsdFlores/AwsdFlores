@@ -1,7 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=d9b4b3&textBg=false&section=header&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=bbcde6&textBg=false&section=header&reversal=false"/>
 
 <br>
-
+<br>
+<br>
 <div align="center">
   
   <b>`プログラマ`</b>
@@ -12,14 +13,38 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A1B3CB&center=true&vCenter=true&width=435&lines=I'm+from+Brazil;I'm+studying+computer+science.;Welcome+to+my+GitHub" alt="Typing SVG"/>
 </div>
 
+<br>
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/kami_♡-black" />
 </div>
+
+##
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center"><b>
+  Sou iniciante em programação e estou construindo meus primeiros projetos 🚀  
+</b></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center"><b>🌱 Atualmente estudando</b></p>
+<p align="center">- HTML </p> 
+<p align="center">- CSS  </p>
+<p align="center">- JavaScript  </p>
+<p align="center">- Python (básico)  </p>
       
 <br>
 <br>
@@ -97,12 +122,4 @@
 
 ##
 
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=ff79c6&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=d9b4b3&textBg=false&section=footer&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=bbcde6&textBg=false&section=footer&reversal=false"/>
