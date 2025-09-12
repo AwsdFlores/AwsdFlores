@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  Sou iniciante em programação e estou construindo meus primeiros projetos 🚀  
+  I'm a beginner in programming and I'm building my first projects 🚀  
 </p>
 
 <br>
@@ -40,22 +40,22 @@
 <br>
 <br>
 
-<p align="center"><b>⋆. 𐙚˚࿔ Atualmente estudando 𝜗𝜚˚⋆</b></p> 
+<p align="center"><b>⋆. 𐙚˚࿔ Currently studying 𝜗𝜚˚⋆</b></p> 
 <p align="center">- HTML </p> 
 <p align="center">- CSS  </p>
 <p align="center">- JavaScript  </p>
-<p align="center">- Python (básico)  </p>
+<p align="center">- Python (basic)  </p>
       
 <br>
 <br>
 <br>
 <br>
 <br>
-<p align="center"><b>⋆. 𐙚˚࿔  Objetivos 𝜗𝜚˚⋆</b></p> 
+<p align="center"><b>⋆. 𐙚˚࿔  Objectives 𝜗𝜚˚⋆</b></p> 
 
-<p align="center">- Melhorar minhas habilidades em desenvolvimento web   </p>
-<p align="center">- Criar projetos práticos para portfólio   </p>
-<p align="center">- Evoluir constantemente como desenvolvedor   </p>
+<p align="center">- Improve my web development skills   </p>
+<p align="center">- Create practical projects for portfolio   </p>
+<p align="center">- Constantly evolve as a developer   </p>
 
 <br>
 <br>
@@ -73,7 +73,7 @@
 <br>
 <br>
 <br>
-<p align="center"><b>⋆. 𐙚˚࿔ Estatísticas do GitHub 𝜗𝜚˚⋆</b></p> 
+<p align="center"><b>⋆. 𐙚˚࿔ GitHub Stats 𝜗𝜚˚⋆</b></p> 
 
 <br>   
 <br>
@@ -94,7 +94,7 @@
 <br>
 <br>
 
-<p align="center">✨ *Aprendendo um pouco a cada dia.* </p> 
+<p align="center">✨ *Learning a little every day.* </p> 
 
 <br>
 <br>
@@ -132,7 +132,7 @@
 <div align="center">
   <p align="center">
       <samp>
-        ♡ <a> Nâo esta pronto! </a> ⊹
+        ♡ <a> It's not ready! </a> ⊹
       </samp>
   </p>
 </div>
