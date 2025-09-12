@@ -30,9 +30,9 @@
 <br>
 <br>
 
-<p align="center"><b>
+<p align="center">
   Sou iniciante em programação e estou construindo meus primeiros projetos 🚀  
-</b></p>
+</p>
 
 <br>
 <br>
