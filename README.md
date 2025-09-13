@@ -31,6 +31,10 @@
 <br>
 
 <p align="center">
+ Computer Science student • Beginner in Web Development • Always learning and exploring new technologies
+</p>
+
+<p align="center">
   I'm a beginner in programming and I'm building my first projects 🚀  
 </p>
 
@@ -51,12 +55,20 @@
 <p align="center"><b>⋆. 𐙚˚࿔  Objectives 𝜗𝜚˚⋆</b></p> 
 
 <p align="center">- Improve my web development skills   </p>
-<p align="center">- Create practical projects for portfolio   </p>
-<p align="center">- Constantly evolve as a developer   </p>
+<p align="center">- Build practical projects for my portfolio   </p>
+<p align="center">- Constantly evolve as a developer  </p>
 
 <br>
 <br>
 <br>
+
+<p align="center"><b>
+⋆. 𐙚˚࿔ Here are some of my first projects 𝜗𝜚˚⋆
+</b></p>
+
+<p align="center">- [ Portfolio Website](https://github.com/AwsdFlores/portfolio) — my personal portfolio.  </p>
+<p align="center">- [ Mini JS Projects](https://github.com/AwsdFlores/js-projects) — small experiments with JavaScript.   </p>
+
 
 ##
 
