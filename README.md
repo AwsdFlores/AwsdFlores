@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<br>
+
 <div align="center">
   
   <b>`プログラマ`</b>
@@ -18,7 +18,6 @@
 
 <br>
 <br>
-<br>
 
 <div align="center">
 
@@ -26,7 +25,7 @@
 </div>
 
 ##
-<br>
+
 <br>
 <br>
 
@@ -40,25 +39,27 @@
 
 <br>
 <br>
-<br>
-
-<p align="center"><b>⋆. 𐙚˚࿔ Currently studying 𝜗𝜚˚⋆</b></p> 
-<p align="center">- HTML </p> 
-<p align="center">- CSS  </p>
-<p align="center">- JavaScript  </p>
-<p align="center">- Python (basic)  </p>
-      
-<br>
-<br>
-<br>
 
 <p align="center"><b>⋆. 𐙚˚࿔  Objectives 𝜗𝜚˚⋆</b></p> 
 
 <p align="center">- Improve my web development skills   </p>
 <p align="center">- Build practical projects for my portfolio   </p>
 <p align="center">- Constantly evolve as a developer  </p>
-
+      
 <br>
+<br>
+
+<p align="center"><b>⋆. 𐙚˚࿔ Currently studying 𝜗𝜚˚⋆</b></p> 
+
+<div align="center">
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
 <br>
 <br>
 
@@ -69,10 +70,12 @@
 <p align="center">- [ Portfolio Website](https://github.com/AwsdFlores/portfolio) — my personal portfolio.  </p>
 <p align="center">- [ Mini JS Projects](https://github.com/AwsdFlores/js-projects) — small experiments with JavaScript.   </p>
 
+<br>
+<br>
 
+---
 ##
 
-<br>
 <br>
 <br>
 
@@ -90,18 +93,10 @@
 | :-: | :-: |
 
 </div>
-  
-<div align="center">
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+##
+---
 
-
-<br>
 <br>
 <br>
 
@@ -128,7 +123,6 @@
     <br>
 <br>
 <br>
-<br>
     <b>
       Contact me:
     </b>
@@ -143,28 +137,24 @@
   <p align="center">
       <samp>
         <p align="center">
-  <a href="mailto:asdwflores@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/paula-flores-244517332">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-      . ݁₊ ⊹ . ݁˖ . ݁ . ݁₊ ⊹ . ݁˖ . ݁ . ݁₊ ⊹ . ݁˖ . ݁
+          <a href="mailto:asdwflores@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+          </a>
+          <a href="https://linkedin.com/in/paula-flores-244517332">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </p>
       </samp>
   </p>
 </div>
-<br>
 
 </details>
 
 <br>
 <br>
-<br>
 
 ##
 
-<br>
 <br>
 <br>
 
