@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=b7d7f0&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=eef5fb&section=header"/>
 
 <br>
 <br>
@@ -156,4 +156,4 @@
 
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAwsdFlores&s=40&c=6a86a5&bg=00000000&no=5&ff=digi&tb=PROFILE+VISITS%3A++&ta=" alt="visits"></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=b7d7f0&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=eef5fb&section=footer"/>
