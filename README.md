@@ -13,13 +13,11 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A86A5&center=true&vCenter=true&width=435&lines=I'm+from+Brazil;I'm+studying+computer+science.;Welcome+to+my+GitHub"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49728E&center=true&vCenter=true&width=435&lines=I'm+from+Brazil.;I'm+studying+computer+science.;Welcome+to+my+GitHub"/>
 </div>
 
 <br>
 <br>
-
-<img width="100%" src="https://imgur.com/ofc2qzH.png"/>
 <br>
 <br>
 
@@ -85,13 +83,14 @@
   
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AwsdFlores&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AwsdFlores&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AwsdFlores&theme=nord_dark&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AwsdFlores&theme=prussian) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AwsdFlores&theme=prussian) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AwsdFlores&theme=prussian&utcOffset=8) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwsdFlores&theme=nord_dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AwsdFlores&theme=nord&hide_border=true) | 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwsdFlores&theme=prussian) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AwsdFlores&theme=prussian) | 
 | :-: | :-: |
-
+<img width="100%" src="https://imgur.com/ofc2qzH.png"/>
 </div>
+
 
 <br>
 <br>
