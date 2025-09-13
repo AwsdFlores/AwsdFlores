@@ -19,7 +19,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <div align="center">
 
@@ -30,15 +29,11 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <p align="center">
   I'm a beginner in programming and I'm building my first projects 🚀  
 </p>
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -52,8 +47,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <p align="center"><b>⋆. 𐙚˚࿔  Objectives 𝜗𝜚˚⋆</b></p> 
 
 <p align="center">- Improve my web development skills   </p>
@@ -63,19 +57,13 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ##
 
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <p align="center"><b>⋆. 𐙚˚࿔ GitHub Stats 𝜗𝜚˚⋆</b></p> 
 
 <br>   
@@ -88,12 +76,19 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwsdFlores&theme=prussian) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AwsdFlores&theme=prussian) | 
 | :-: | :-: |
-<img width="100%" src="https://imgur.com/ofc2qzH.png"/>
+
+</div>
+  
+<div align="center">
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
 
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -122,7 +117,6 @@
 <br>
 <br>
 <br>
-<br>
     <b>
       Contact me:
     </b>
@@ -144,7 +138,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-        ♡  ⊹  ♡  ⊹  ♡  ⊹  ♡  ⊹  ♡
+      . ݁₊ ⊹ . ݁˖ . ݁ . ݁₊ ⊹ . ݁˖ . ݁ . ݁₊ ⊹ . ݁˖ . ݁
       </samp>
   </p>
 </div>
@@ -155,13 +149,9 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ##
 
-<br>
-<br>
 <br>
 <br>
 <br>
